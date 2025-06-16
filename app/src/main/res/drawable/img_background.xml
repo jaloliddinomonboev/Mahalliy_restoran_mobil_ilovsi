@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF" /> <!-- Orqa fon rangi -->
+    <corners android:radius="50dp" /> <!-- Yaqin radius aylana qiladi -->
+</shape>

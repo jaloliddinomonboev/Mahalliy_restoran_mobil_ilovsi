@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/img_8"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/img_10"
+        android:title="Search" />
+
+    <item
+        android:id="@+id/savat"
+        android:icon="@drawable/img_11"
+        android:title="Buyurtma" />
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/img_12"
+        android:title="Profil" />
+</menu>
